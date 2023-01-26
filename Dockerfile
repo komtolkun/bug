@@ -1,3 +1,3 @@
-FROM node:16.10.0-buster
+From node
  
 RUN npm start
