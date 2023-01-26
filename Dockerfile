@@ -1,1 +1,1 @@
-CMD ["node ."]`
+Run node .
